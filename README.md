@@ -1,2 +1,2 @@
-# archives
-Miscellaneous.
+# Archives
+An assortment of miscellaneous topics.
